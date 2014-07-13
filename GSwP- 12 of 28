@@ -1,0 +1,15 @@
+console.log(2 * 5)
+console.log("Hello")
+
+
+//Output: 
+
+10
+Hello
+
+
+
+
+// Using console.log
+// Also known as "printing out"
+// Make sure to include quotes for strings, and no quotes for numbers.
