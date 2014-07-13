@@ -1,0 +1,31 @@
+prompt("Where are you from?")
+
+
+
+//What is programming?
+
+//prompt("Where are you from?")
+
+//This generates a pop-up box with the text "Where are you from?"
+
+//The Output produced is the text inputted into the pop-up box in quotation marks.
+
+//If no text is inputted and the "OK" button in the pop-up box is pressed the Output is just a set of empty quotation marks.
+
+
+
+//If no text is inputted and the "Cancel" button is pressed the Output is the text "null".
+
+//Then the following warning box inside Codecademy is generated:
+
+//"Oops, try again. Something went wrong with your prompt. Check the Hint if you need help!"
+
+
+//If text is inputted and the "Cancel" button is pressed, again the Output is the text "null".
+
+//Then the following warning box inside Codecademy is generated:
+
+//"Oops, try again. Something went wrong with your prompt. Check the Hint if you need help!"
+
+
+// It doesn't seem to matter if there is a semicolon after the code or not, the program seems to run the same way.
