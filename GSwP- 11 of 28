@@ -1,0 +1,10 @@
+"I'm coding like a champ!".length > 10;
+
+
+//Data Type III: Booleans
+
+//Output: "True"
+
+//For "<" the Output is "False"
+// The following warning box appears.
+//"Oops, try again. Make sure you typed in the string exactly, used .length, and used the right comparator."
