@@ -1,0 +1,30 @@
+// Also try the Q&A forum to get help
+// The link is on the bottom left of the page!
+confirm("I have integrity");
+confirm("I have energy.");
+
+
+
+//Interactive JavaScript
+
+//Output:
+
+//Generates two consecutive pop-up boxes with "I have integrity." and then "I have energy." that can be closed by clicking //either the "OK" or "Cancel" buttons.
+
+
+//If the "OK" button is clicked on both boxes then the Output: is "True"
+//If the "Cancel" button is clicked on both boxes the Output: is "False"
+
+
+//If "OK" and then "Cancel" is clicked then the Output: is "False"
+//If the "Cancel" and then "OK" is clicked then the Output: is "True"
+
+
+//Not sure why this happens.
+
+
+//Also in using a Chrome browser the second pop-up box offers an option to stop pop up boxes - if this is clicked and then //the code is run again no Chrome pop-up box is generated and the following Codecademy warning box is produced:
+
+//"Oops, try again. It looks like you didn't create the confirm dialog correctly (or you clicked 'Cancel' instead of 'OK'). //Check the examples in the instructions if you need help!"
+
+//I don't know how to reset the browser to stop this. Pressing the "Reset" button or refreshing the browser or going back to //the previous lesson and then going back to this lesson does not stop the suppression of the pop-up boxes.
