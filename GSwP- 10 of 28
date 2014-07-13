@@ -1,0 +1,12 @@
+"We hold these truths to be self evident..".length
+
+
+
+//Data Types I & II: Numbers & Strings
+
+
+// Output: 41
+
+
+
+// All characters between quotation marks (including spaces) are counted.
