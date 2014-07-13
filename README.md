@@ -1,0 +1,4 @@
+JS
+==
+
+Codecademy JS course
