@@ -1,0 +1,41 @@
+// Here is an example of using the greater than (>) operator.
+
+console.log(15 > 4); 
+
+// 15 > 4 evaluates to true, so true is printed.
+
+// Fill in with >, <, === so that the following print out tru:
+
+console.log("Xiao Hui".length < 122);
+console.log("Goody Donaldson".length > 8);
+console.log(8*2 === 16);
+
+console.log(10 <= 10);
+console.log(15 >= 15);
+console.log(20 !== 19);
+
+
+// Output:
+
+// true
+// true
+// true
+// true
+// true
+// true
+// true
+// true
+
+
+//Comparisons
+//List of comparison operators
+
+//List of comparison operators:
+
+// : > Greater than
+// : < Less than
+// : <= Less than or equal to
+// : >= Greater than or equal to
+// : === Equal to
+// : !== Not equal to
+
