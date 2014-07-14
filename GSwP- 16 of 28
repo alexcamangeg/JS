@@ -1,0 +1,48 @@
+if (3 === 0)
+{
+    console.log("The condition is true.")
+}
+else
+{
+    console.log("The condition is false.")
+}
+
+
+
+
+// More practice with conditionals
+
+// This code runs successfully and produces the Output: "The condition is false."
+// It doesn't seem to matter if I put semicolons after each console.log line as is given as an example.  The code executes // successfully in both cases.
+
+// If the first line of the code is changed to (3 === 3) then the "if" instruction is executed and the Output is "The // // condition is true."
+
+//if (3 === 0)
+//{
+//    console.log("The condition is true.");
+//}
+//else
+//{
+//    console.log("The condition is false.");
+//}
+
+
+
+
+// if / else template
+
+//if (condition) 
+//{
+//    // if condition is true
+//    // do this code
+//}
+//else // "otherwise"
+//{
+//    // do this code instead
+//}
+
+
+
+
+
+
