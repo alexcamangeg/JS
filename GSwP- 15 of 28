@@ -1,0 +1,34 @@
+if (4 > 3) 
+{
+    console.log("Let's go down the first road!");
+}
+else 
+{console.log("Let's take a bus.")
+}
+
+
+// In this case the 4 is greater than 3  is TRUE so the command/function inside the left and right curly brackets { } is 
+// executed and so the Output produced is "Let's go down the first road!"
+
+
+//Alternatively if the code was:
+
+//if (3 > 4) 
+//{
+//    console.log("Let's go down the first road!");
+//}
+//else 
+//{console.log("Let's take a bus.")
+//}
+
+//In this case 3 is greater than 4 is FALSE so the fist command/function inside the the curly brackets is not executed and //thus the second command/function after the else is executed - "Let's take a bus."
+
+
+
+
+
+//Computers are Smart
+
+//if / else statements
+//These can be used in conjunction with True /False  Booleans.
+
