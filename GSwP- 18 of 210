@@ -1,0 +1,83 @@
+if (12 / 4 === "Ari".length) {
+    confirm("Will this run the first block?");
+} else {
+    confirm("Or the second block?");
+}
+
+
+
+
+
+/*
+
+When the code is run a pop-up box is generated saying "Will this run the first block?" as 12 divided by 4 equals 3.  
+     3 is equal to (===) length of the string "Ari" that is equal to 3.
+
+When you click "OK" the Output  generated is "true"
+
+If you click "Cancel" the Output generated is "false"
+
+
+
+If the first line is changed from 12 to 11
+
+if (11 / 4 === "Ari".length) {
+
+When the code is run, again a pop up box is generated saying "Or the second block?" as 11 / 4 is equal 2.75 (===).  The length of the string "Ari" is 3.
+
+When you click "OK" the Output  generated is "true"
+
+If you click "Cancel" the Output generated is "false"
+
+
+
+
+Mid-lesson breather
+
+
+
+Original Code:
+
+// This is an example of an if / else statement.
+
+if (12 / 4 === "Ari".length) {
+    confirm("Will this run the first block?");
+} else {
+    confirm("Or the second block?");
+}
+
+
+Mid-lesson breather
+We've covered a lot of ground so far! So many new terms, so much syntax. Let's take a breather and review. 
+We have learned:
+
+
+1. Confirm and prompt
+
+We can make pop-up boxes appear! 
+confirm("I am ok");
+prompt("Are you ok?");
+
+
+2. Data types
+
+a. numbers (e.g. 4.3, 134)
+
+b. strings (e.g. "dogs go woof!", "JavaScript expert")
+
+c. booleans (e.g. false, 5 > 4)
+
+
+3. Conditionals
+
+If the first condition is met, execute the first code block. If it is not met, execute the code in the else block. See the code on the right for another example.
+
+
+*/
+
+
+
+
+
+
+
