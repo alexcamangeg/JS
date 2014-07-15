@@ -1,0 +1,38 @@
+// Not sure where to begin? Check the Hint!
+if(3 === 2)
+{
+    console.log("I finished my first course!")
+}
+else
+{
+    console.log("I finished my first course!")
+}
+
+
+
+/*
+
+the if/else function has two identical console.log text strings, so the argument can be true or false. 
+The correct, requiredtext string will always Output.
+
+In this case 3 === 2 is false so the else part triggers Outputting the text string "I finished my first course!"
+
+
+
+
+Conclusion: Part 2
+Congratulations on making it this far. You have learned a lot! Just one more exercise before a big pat on the back!
+
+The last tricky thing we learned was about if / else statements.
+
+If / else statements are conditional statements. Under different conditions, the computer will output different things.
+
+Instructions
+Write your own if / else statement.
+The only instruction is that the result of evaluating the statement is a log to the console of "I finished my first course!".
+
+
+*/
+
+
+
