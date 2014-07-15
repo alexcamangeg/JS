@@ -1,0 +1,95 @@
+"wonderful day".substring(3,7);
+
+
+
+
+/*
+
+Output produced is "derf"
+
+
+
+"some word".substring(x, y)
+
+Here are a few different experiments in changing the variables(x, y) which have a range of 0 to 14.
+
+I tried using different variables outside the nominal:
+
+(0,15), (-1,14), (-0,14), (13,13), (-5,-5), (15,16)
+
+These are all reasonably consistent.
+
+"wonderful day".substring(0,15);
+'wonderful day'
+
+"wonderful day".substring(-1,14);
+'wonderful day'
+
+"wonderful day".substring(-0,14);
+'wonderful day'
+
+"wonderful day".substring(13,13);
+''
+
+"wonderful day".substring(-5,-5);
+''
+
+"wonderful day".substring(15,16);
+''
+
+
+
+When I made the "x" variable bigger than the "y" variable the Output was the same as if they are reversed.
+
+Not sure why this is.
+
+
+"wonderful day".substring(11, 9);
+' d'
+
+"wonderful day".substring(9, 11);
+' d'
+
+
+
+Codecademy.com text:
+
+Substrings
+
+We've learned a few ways to manipulate numbers. What about manipulating strings?
+
+Sometimes you don't want to display the entire string, just a part of it. For example, in your Gmail inbox, you can set it to display the first 50 or so characters of each message so you can preview them. This preview is a substring of the original string (the entire message).
+
+Code:
+
+"some word".substring(x, y) where x is where you start chopping and y is where you finish chopping the original string.
+
+The number part is a little strange. To select for the "he" in "hello", you would write this:
+
+"hello". substring(0, 2);
+Each character in a string is numbered starting from 0, like this:
+
+0 1 2 3 4
+ | | | | | 
+ h e l l o
+The letter h is in position 0, the letter e is in position 1, and so on.
+
+Therefore if you start at position 0, and slice right up till position 2, you are left with just he
+
+More examples:
+
+1. First 3 letters of "Batman"
+"Batman".substring(0,3);
+
+2. From 4th to 6th letter of "laptop"
+"laptop".substring(3,6);
+
+Instructions
+Find the 4th to 7th letter of the string "wonderful day".
+
+
+
+Check codecademy.com for full information and other online courses.
+
+
+*/
